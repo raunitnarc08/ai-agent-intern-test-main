@@ -9,7 +9,7 @@ The agent uses a RAG system over the company's knowledge base and an order-looku
 ### Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/raunitnarc08/ai-agent-intern-test-main.git>
 cd ai-agent-intern-test-main
 ```
 
